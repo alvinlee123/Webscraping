@@ -33,13 +33,4 @@ def plot_colors(xml):
     return result
 
 def rcp_poll_data(xml):
-    
-    
-    
-    
-    touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/alvinlee123/Webscraping.git
-git push -u origin master
+    print hi
